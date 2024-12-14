@@ -29,6 +29,3 @@ This project implements a two-stage system for acne analysis on smartphone image
 - Anayna Nidhi Singh
 - Narasimha Karthik G
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31789019/6d3787ed-8960-4d29-93b0-d82f993f3fa4/project-report-cs512-f24.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31789019/393caaa0-51a4-41c7-9ae3-600dae8ad18d/Resume.pdf
