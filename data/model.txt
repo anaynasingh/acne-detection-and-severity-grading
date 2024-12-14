@@ -1,0 +1,4 @@
+Link to the saved model:
+https://drive.google.com/file/d/1sEeza_BBpg9sYpqZhZh2osstUcxFddri/view?usp=sharing 
+
+(This file can also be found in the Project directory itself in the src folder.)

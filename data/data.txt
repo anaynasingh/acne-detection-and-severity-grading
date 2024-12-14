@@ -1,0 +1,5 @@
+Link to the ACNE04 dataset:
+https://github.com/anaynasingh/acne04-dataset
+
+The dataset was downloaded from the google drive link and then uploaded to GitHub by us. The link to the original google drive link:
+https://drive.google.com/drive/folders/18yJcHXhzOv7H89t-Lda6phheAicLqMuZ?usp=sharing 

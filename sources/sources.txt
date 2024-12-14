@@ -1,0 +1,7 @@
+1. Huynh, Q.T., et al. (2022). Automatic Acne Object Detection and Acne Severity Grading Using
+ Smartphone Images and Artificial Intelligence. Diagnostics, 12(8), 1879.
+ 2. Ren, S., et al. (2015). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal
+ Networks. NeurIPS.
+ 3. Ke, G., et al. (2017). LightGBM: A Highly Efficient Gradient Boosting Decision Tree. NIPS.
+ 4. Deng, J., et al. (2009). ImageNet: A large-scale hierarchical image database. CVPR.
+ 5. Russakovsky, O., et al. (2015). ImageNet Large Scale Visual Recognition Challenge. IJCV.
